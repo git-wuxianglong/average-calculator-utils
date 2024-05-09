@@ -1,0 +1,14 @@
+{
+  "name": "average-calculator-utils",
+  "version": "1.0.0",
+  "description": "计算数组平均值",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "omeredith",
+  "license": "ISC"
+}
